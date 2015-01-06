@@ -14,3 +14,5 @@ Here are some useful and needed Ideas from other languages/frameworks like Rails
 - Rails nested forms
 - [Rails split test plugins](https://github.com/andrew/split) jssengers has already done one.
 - Automatic admin forms like Django
+- Persianizing blade and twig
+- Cacheable sections for blade
