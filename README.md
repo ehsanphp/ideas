@@ -16,3 +16,4 @@ Here are some useful and needed Ideas from other languages/frameworks like Rails
 - Automatic admin forms like Django
 - Persianizing blade and twig
 - Cacheable sections for blade
+- Laravel5 plugin for oh-my-zsh 
