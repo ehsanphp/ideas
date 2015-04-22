@@ -17,3 +17,4 @@ Here are some useful and needed Ideas from other languages/frameworks like Rails
 - Persianizing blade and twig
 - Cacheable sections for blade
 - Laravel5 plugin for oh-my-zsh 
+- Translate [LaravelTheRightWay](http://www.laraveltherightway.com)
